@@ -1,9 +1,7 @@
 package testPattern;
 
 import design.adapter.*;
-
 public class TestNoAdapter {
-
     public static void main(String[] args) {
         testDrawing();
     }

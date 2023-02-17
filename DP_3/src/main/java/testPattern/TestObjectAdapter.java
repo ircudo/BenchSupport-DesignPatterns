@@ -1,9 +1,5 @@
 package testPattern;
 
-import design.adapter.*;
-import design.adapter.extra.*;
-import design.adapter.objectAdapter.*;
-
 public class TestObjectAdapter {
     public static void main(String[] args) {
         testObjectAdapter();

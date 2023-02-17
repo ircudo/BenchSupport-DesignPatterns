@@ -9,7 +9,7 @@ public class TestDesignPatterns {
         testAbstractFactory();
     }
     private static void testAbstractFactory() {
-        // instanciate salad, meat
+        // instantiate salad, meat
 
         // print out salad, meat
     }
