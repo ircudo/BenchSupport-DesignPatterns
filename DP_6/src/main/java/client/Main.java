@@ -1,4 +1,4 @@
-package testobserver;
+package client;
 
 
 public class Main {

@@ -1,9 +1,6 @@
-package testFactory;
+package client;
 
-import factory.*;
-import model.*;
-
-public class TestDesignPatterns {
+public class TestFactoryMethod {
     public static void main(String[] args) {
         testFactoryMethod();
     }

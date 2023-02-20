@@ -1,6 +1,4 @@
-package testgame;
-
-import game.*;
+package client;
 
 public class Main {
     public static void main(String[] args)  {

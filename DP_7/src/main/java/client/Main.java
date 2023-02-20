@@ -1,8 +1,4 @@
-package teststrategy;
-
-import model.*;
-
-import java.math.*;
+package client;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package testPattern;
+package client;
 
 import design.adapter.*;
 public class TestNoAdapter {

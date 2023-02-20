@@ -1,18 +1,18 @@
-package testPattern;
+package client;
 
-public class TestClassAdapter {
+public class TestObjectAdapter {
     public static void main(String[] args) {
-        testClassAdapter();
+        testObjectAdapter();
     }
 
-    private static void testClassAdapter() {
+    private static void testObjectAdapter() {
         System.out.println("Creating drawing of shapes...");
 
         // create instance of drawing
 
         // add shapes to drawing: rectangle, circle as new Rectangle(), new Circle()
 
-        // add shapes to drawing: triangle, rhombus using corresponding adapters
+        // add shapes to drawing: triangle, rhombus using GeometricShapeObjectAdapter
 
         System.out.println("Drawing...");
         // do drawing

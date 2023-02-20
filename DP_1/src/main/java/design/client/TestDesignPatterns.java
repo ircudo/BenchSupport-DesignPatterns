@@ -1,7 +1,4 @@
-package design.test;
-
-import design.abstractfactory.*;
-import design.model.*;
+package design.client;
 
 public class TestDesignPatterns {
 
