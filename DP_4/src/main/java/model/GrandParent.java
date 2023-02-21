@@ -8,9 +8,9 @@ public class GrandParent implements Human {
 
     private List<Human> children = new ArrayList<>();
 
-//    public GrandParent(String name) {
-//        this.name = name;
-//    }
+    public GrandParent(String name) {
+        this.name = name;
+    }
 
     @Override
     public String getName() {
